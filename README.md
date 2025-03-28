@@ -19,7 +19,6 @@ The dataset contains survey responses from 630 participants, including:
 - The average survey participant is **29.87 years old**.
 
 ## Files
-- `Reports/PowerBI_Dashboard.pbix` - Power BI project file.
 - `Reports/Dashboard_Screenshot.png` - Image of the final dashboard.
 - `Data/raw_data.xlsx` - The original survey dataset.
-- `Docs/Insights.md` - Summary of findings.
+
