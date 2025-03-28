@@ -20,5 +20,6 @@ The dataset contains survey responses from 630 participants, including:
 
 ## Files
 - `Reports/Dashboard_Screenshot.png` - Image of the final dashboard.
-- `Data/raw_data.xlsx` - The original survey dataset.
+- `Main Data.xlsx` - The original survey dataset.
+- `Data Professional Survey Breakdown Project.pbix` - Power BI project file.
 
